@@ -1,0 +1,7 @@
+names
+faker
+networkx
+pyvis
+pandas
+numpy
+pillow
