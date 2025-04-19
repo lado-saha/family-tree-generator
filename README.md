@@ -57,6 +57,3 @@ The setup script will install all required dependencies, which include:
 - faker
 - networkx
 - pyvis
-- pandas
-- numpy
-- pillow
